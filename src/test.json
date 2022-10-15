@@ -1,0 +1,3450 @@
+{
+  "text": [
+    {
+      "id": 0,
+      "speaker": "Unnamed Speaker",
+      "paragraph": [
+        {
+          "line": [
+            {
+              "id": 0,
+              "text": "well",
+              "startTime": 3.73,
+              "endTime": 4.15
+            },
+            {
+              "id": 1,
+              "text": "you",
+              "startTime": 4.53,
+              "endTime": 4.65
+            },
+            {
+              "id": 2,
+              "text": "know",
+              "startTime": 4.65,
+              "endTime": 4.99
+            },
+            {
+              "id": 3,
+              "text": "I've",
+              "startTime": 5.12,
+              "endTime": 5.38
+            },
+            {
+              "id": 4,
+              "text": "done",
+              "startTime": 5.38,
+              "endTime": 5.62
+            },
+            {
+              "id": 5,
+              "text": "a",
+              "startTime": 5.62,
+              "endTime": 5.7
+            },
+            {
+              "id": 6,
+              "text": "lot",
+              "startTime": 5.7,
+              "endTime": 6
+            },
+            {
+              "id": 7,
+              "text": "of",
+              "startTime": 6,
+              "endTime": 6.08
+            },
+            {
+              "id": 8,
+              "text": "mistakes",
+              "startTime": 6.08,
+              "endTime": 6.58
+            },
+            {
+              "id": 9,
+              "text": "are",
+              "startTime": 6.58,
+              "endTime": 6.66
+            },
+            {
+              "id": 10,
+              "text": "probably",
+              "startTime": 6.66,
+              "endTime": 6.95
+            },
+            {
+              "id": 11,
+              "text": "done",
+              "startTime": 6.95,
+              "endTime": 7.15
+            },
+            {
+              "id": 12,
+              "text": "every",
+              "startTime": 7.15,
+              "endTime": 7.4
+            },
+            {
+              "id": 13,
+              "text": "mistake",
+              "startTime": 7.4,
+              "endTime": 7.8
+            },
+            {
+              "id": 14,
+              "text": "in",
+              "startTime": 7.8,
+              "endTime": 7.91
+            },
+            {
+              "id": 15,
+              "text": "the",
+              "startTime": 7.91,
+              "endTime": 8.02
+            },
+            {
+              "id": 16,
+              "text": "book",
+              "startTime": 8.02,
+              "endTime": 8.5
+            },
+            {
+              "id": 17,
+              "text": "%HESITATION",
+              "startTime": 8.55,
+              "endTime": 9.07
+            }
+          ],
+          "id": 0,
+          "startTime": 3.73,
+          "endTime": 9.07
+        },
+        {
+          "line": [
+            {
+              "id": 18,
+              "text": "but",
+              "startTime": 9.88,
+              "endTime": 10.16
+            },
+            {
+              "id": 19,
+              "text": "I",
+              "startTime": 10.5,
+              "endTime": 10.63
+            },
+            {
+              "id": 20,
+              "text": "think",
+              "startTime": 10.63,
+              "endTime": 10.92
+            },
+            {
+              "id": 21,
+              "text": "some",
+              "startTime": 10.92,
+              "endTime": 11.11
+            },
+            {
+              "id": 22,
+              "text": "of",
+              "startTime": 11.11,
+              "endTime": 11.24
+            },
+            {
+              "id": 23,
+              "text": "the",
+              "startTime": 11.24,
+              "endTime": 11.32
+            },
+            {
+              "id": 24,
+              "text": "most",
+              "startTime": 11.32,
+              "endTime": 11.61
+            },
+            {
+              "id": 25,
+              "text": "more",
+              "startTime": 11.61,
+              "endTime": 11.86
+            },
+            {
+              "id": 26,
+              "text": "important",
+              "startTime": 11.86,
+              "endTime": 12.35
+            },
+            {
+              "id": 27,
+              "text": "lessons",
+              "startTime": 12.35,
+              "endTime": 12.88
+            },
+            {
+              "id": 28,
+              "text": "I've",
+              "startTime": 12.88,
+              "endTime": 13.11
+            },
+            {
+              "id": 29,
+              "text": "had",
+              "startTime": 13.11,
+              "endTime": 13.58
+            },
+            {
+              "id": 30,
+              "text": "actually",
+              "startTime": 13.61,
+              "endTime": 14.23
+            },
+            {
+              "id": 31,
+              "text": "S.",
+              "startTime": 14.28,
+              "endTime": 14.86
+            }
+          ],
+          "id": 1,
+          "startTime": 9.88,
+          "endTime": 14.86
+        },
+        {
+          "line": [
+            {
+              "id": 32,
+              "text": "it's",
+              "startTime": 16.28,
+              "endTime": 16.6
+            },
+            {
+              "id": 33,
+              "text": "so",
+              "startTime": 16.73,
+              "endTime": 17.13
+            },
+            {
+              "id": 34,
+              "text": "easy",
+              "startTime": 17.13,
+              "endTime": 17.75
+            },
+            {
+              "id": 35,
+              "text": "to",
+              "startTime": 18.07,
+              "endTime": 18.72
+            },
+            {
+              "id": 36,
+              "text": "say",
+              "startTime": 18.89,
+              "endTime": 19.21
+            },
+            {
+              "id": 37,
+              "text": "yes",
+              "startTime": 19.21,
+              "endTime": 19.6
+            },
+            {
+              "id": 38,
+              "text": "to",
+              "startTime": 19.6,
+              "endTime": 19.75
+            },
+            {
+              "id": 39,
+              "text": "things",
+              "startTime": 19.75,
+              "endTime": 20.26
+            },
+            {
+              "id": 40,
+              "text": "because",
+              "startTime": 20.57,
+              "endTime": 20.86
+            },
+            {
+              "id": 41,
+              "text": "you",
+              "startTime": 20.86,
+              "endTime": 20.99
+            },
+            {
+              "id": 42,
+              "text": "think",
+              "startTime": 20.99,
+              "endTime": 21.34
+            },
+            {
+              "id": 43,
+              "text": "that",
+              "startTime": 21.34,
+              "endTime": 21.74
+            },
+            {
+              "id": 44,
+              "text": "ass",
+              "startTime": 22.06,
+              "endTime": 22.62
+            },
+            {
+              "id": 45,
+              "text": "you",
+              "startTime": 22.79,
+              "endTime": 22.87
+            },
+            {
+              "id": 46,
+              "text": "know",
+              "startTime": 22.87,
+              "endTime": 23.1
+            },
+            {
+              "id": 47,
+              "text": "the",
+              "startTime": 23.13,
+              "endTime": 23.23
+            },
+            {
+              "id": 48,
+              "text": "company",
+              "startTime": 23.23,
+              "endTime": 23.61
+            },
+            {
+              "id": 49,
+              "text": "kind",
+              "startTime": 23.61,
+              "endTime": 23.83
+            },
+            {
+              "id": 50,
+              "text": "of",
+              "startTime": 23.83,
+              "endTime": 23.95
+            },
+            {
+              "id": 51,
+              "text": "evolves",
+              "startTime": 23.95,
+              "endTime": 24.61
+            },
+            {
+              "id": 52,
+              "text": "and",
+              "startTime": 24.61,
+              "endTime": 24.73
+            },
+            {
+              "id": 53,
+              "text": "even",
+              "startTime": 24.73,
+              "endTime": 24.91
+            },
+            {
+              "id": 54,
+              "text": "us",
+              "startTime": 24.91,
+              "endTime": 25.1
+            },
+            {
+              "id": 55,
+              "text": "you",
+              "startTime": 25.1,
+              "endTime": 25.2
+            },
+            {
+              "id": 56,
+              "text": "have",
+              "startTime": 25.2,
+              "endTime": 25.37
+            },
+            {
+              "id": 57,
+              "text": "more",
+              "startTime": 25.37,
+              "endTime": 25.59
+            },
+            {
+              "id": 58,
+              "text": "people",
+              "startTime": 25.59,
+              "endTime": 26.03
+            },
+            {
+              "id": 59,
+              "text": "on",
+              "startTime": 26.03,
+              "endTime": 26.09
+            },
+            {
+              "id": 60,
+              "text": "the",
+              "startTime": 26.09,
+              "endTime": 26.18
+            },
+            {
+              "id": 61,
+              "text": "site",
+              "startTime": 26.18,
+              "endTime": 26.4
+            },
+            {
+              "id": 62,
+              "text": "well",
+              "startTime": 26.43,
+              "endTime": 26.72
+            },
+            {
+              "id": 63,
+              "text": "this",
+              "startTime": 26.72,
+              "endTime": 26.87
+            },
+            {
+              "id": 64,
+              "text": "sounds",
+              "startTime": 26.87,
+              "endTime": 27.18
+            },
+            {
+              "id": 65,
+              "text": "like",
+              "startTime": 27.18,
+              "endTime": 27.35
+            },
+            {
+              "id": 66,
+              "text": "a",
+              "startTime": 27.35,
+              "endTime": 27.43
+            },
+            {
+              "id": 67,
+              "text": "reasonable",
+              "startTime": 27.43,
+              "endTime": 28
+            },
+            {
+              "id": 68,
+              "text": "idea",
+              "startTime": 28,
+              "endTime": 28.33
+            }
+          ],
+          "id": 2,
+          "startTime": 16.28,
+          "endTime": 28.33
+        },
+        {
+          "line": [
+            {
+              "id": 69,
+              "text": "well",
+              "startTime": 29.14,
+              "endTime": 29.45
+            },
+            {
+              "id": 70,
+              "text": "it",
+              "startTime": 29.92,
+              "endTime": 30.4
+            },
+            {
+              "id": 71,
+              "text": "even",
+              "startTime": 30.77,
+              "endTime": 31.06
+            },
+            {
+              "id": 72,
+              "text": "if",
+              "startTime": 31.06,
+              "endTime": 31.19
+            },
+            {
+              "id": 73,
+              "text": "you're",
+              "startTime": 31.19,
+              "endTime": 31.37
+            },
+            {
+              "id": 74,
+              "text": "in",
+              "startTime": 31.37,
+              "endTime": 31.53
+            },
+            {
+              "id": 75,
+              "text": "your",
+              "startTime": 31.53,
+              "endTime": 31.68
+            },
+            {
+              "id": 76,
+              "text": "hands",
+              "startTime": 31.68,
+              "endTime": 32.14
+            },
+            {
+              "id": 77,
+              "text": "say",
+              "startTime": 32.14,
+              "endTime": 32.35
+            },
+            {
+              "id": 78,
+              "text": "this",
+              "startTime": 32.35,
+              "endTime": 32.56
+            },
+            {
+              "id": 79,
+              "text": "sounds",
+              "startTime": 32.56,
+              "endTime": 32.88
+            },
+            {
+              "id": 80,
+              "text": "like",
+              "startTime": 32.88,
+              "endTime": 33.04
+            },
+            {
+              "id": 81,
+              "text": "a",
+              "startTime": 33.04,
+              "endTime": 33.11
+            },
+            {
+              "id": 82,
+              "text": "reasonable",
+              "startTime": 33.11,
+              "endTime": 33.62
+            },
+            {
+              "id": 83,
+              "text": "idea",
+              "startTime": 33.62,
+              "endTime": 33.96
+            },
+            {
+              "id": 84,
+              "text": "that",
+              "startTime": 33.96,
+              "endTime": 34.11
+            },
+            {
+              "id": 85,
+              "text": "means",
+              "startTime": 34.11,
+              "endTime": 34.34
+            },
+            {
+              "id": 86,
+              "text": "now",
+              "startTime": 34.34,
+              "endTime": 34.82
+            },
+            {
+              "id": 87,
+              "text": "%HESITATION",
+              "startTime": 35.24,
+              "endTime": 35.73
+            },
+            {
+              "id": 88,
+              "text": "unless",
+              "startTime": 36.03,
+              "endTime": 36.39
+            },
+            {
+              "id": 89,
+              "text": "you're",
+              "startTime": 36.39,
+              "endTime": 36.53
+            },
+            {
+              "id": 90,
+              "text": "dead",
+              "startTime": 36.53,
+              "endTime": 36.89
+            },
+            {
+              "id": 91,
+              "text": "sure",
+              "startTime": 36.89,
+              "endTime": 37.33
+            },
+            {
+              "id": 92,
+              "text": "that",
+              "startTime": 37.33,
+              "endTime": 37.53
+            },
+            {
+              "id": 93,
+              "text": "this",
+              "startTime": 37.53,
+              "endTime": 37.73
+            },
+            {
+              "id": 94,
+              "text": "is",
+              "startTime": 37.73,
+              "endTime": 37.91
+            },
+            {
+              "id": 95,
+              "text": "the",
+              "startTime": 37.91,
+              "endTime": 38.04
+            },
+            {
+              "id": 96,
+              "text": "one",
+              "startTime": 38.04,
+              "endTime": 38.34
+            },
+            {
+              "id": 97,
+              "text": "thing",
+              "startTime": 38.34,
+              "endTime": 38.65
+            },
+            {
+              "id": 98,
+              "text": "we",
+              "startTime": 38.65,
+              "endTime": 38.81
+            },
+            {
+              "id": 99,
+              "text": "should",
+              "startTime": 38.81,
+              "endTime": 39.05
+            },
+            {
+              "id": 100,
+              "text": "do",
+              "startTime": 39.05,
+              "endTime": 39.48
+            }
+          ],
+          "id": 3,
+          "startTime": 29.14,
+          "endTime": 39.48
+        },
+        {
+          "line": [
+            {
+              "id": 101,
+              "text": "all",
+              "startTime": 40.3,
+              "endTime": 40.4
+            },
+            {
+              "id": 102,
+              "text": "the",
+              "startTime": 40.4,
+              "endTime": 40.52
+            },
+            {
+              "id": 103,
+              "text": "better",
+              "startTime": 40.52,
+              "endTime": 40.84
+            },
+            {
+              "id": 104,
+              "text": "to",
+              "startTime": 40.84,
+              "endTime": 41.01
+            },
+            {
+              "id": 105,
+              "text": "say",
+              "startTime": 41.01,
+              "endTime": 41.18
+            },
+            {
+              "id": 106,
+              "text": "now",
+              "startTime": 41.18,
+              "endTime": 41.61
+            }
+          ],
+          "id": 4,
+          "startTime": 40.3,
+          "endTime": 41.61
+        },
+        {
+          "line": [
+            {
+              "id": 107,
+              "text": "%HESITATION",
+              "startTime": 42.51,
+              "endTime": 42.84
+            },
+            {
+              "id": 108,
+              "text": "so",
+              "startTime": 42.84,
+              "endTime": 43.33
+            },
+            {
+              "id": 109,
+              "text": "I'd",
+              "startTime": 43.36,
+              "endTime": 43.58
+            },
+            {
+              "id": 110,
+              "text": "I'd",
+              "startTime": 43.61,
+              "endTime": 43.79
+            },
+            {
+              "id": 111,
+              "text": "say",
+              "startTime": 43.79,
+              "endTime": 43.97
+            },
+            {
+              "id": 112,
+              "text": "my",
+              "startTime": 43.97,
+              "endTime": 44.17
+            },
+            {
+              "id": 113,
+              "text": "dumbest",
+              "startTime": 44.17,
+              "endTime": 44.54
+            },
+            {
+              "id": 114,
+              "text": "mistake",
+              "startTime": 44.54,
+              "endTime": 44.85
+            },
+            {
+              "id": 115,
+              "text": "is",
+              "startTime": 44.85,
+              "endTime": 45.07
+            },
+            {
+              "id": 116,
+              "text": "just",
+              "startTime": 45.14,
+              "endTime": 45.57
+            },
+            {
+              "id": 117,
+              "text": "taking",
+              "startTime": 45.86,
+              "endTime": 46.24
+            },
+            {
+              "id": 118,
+              "text": "on",
+              "startTime": 46.24,
+              "endTime": 46.46
+            },
+            {
+              "id": 119,
+              "text": "too",
+              "startTime": 46.46,
+              "endTime": 46.66
+            },
+            {
+              "id": 120,
+              "text": "much",
+              "startTime": 46.66,
+              "endTime": 47.05
+            },
+            {
+              "id": 121,
+              "text": "doing",
+              "startTime": 47.05,
+              "endTime": 47.39
+            },
+            {
+              "id": 122,
+              "text": "too",
+              "startTime": 47.39,
+              "endTime": 47.6
+            },
+            {
+              "id": 123,
+              "text": "much",
+              "startTime": 47.6,
+              "endTime": 47.88
+            },
+            {
+              "id": 124,
+              "text": "at",
+              "startTime": 47.88,
+              "endTime": 47.99
+            },
+            {
+              "id": 125,
+              "text": "the",
+              "startTime": 47.99,
+              "endTime": 48.08
+            },
+            {
+              "id": 126,
+              "text": "same",
+              "startTime": 48.08,
+              "endTime": 48.35
+            },
+            {
+              "id": 127,
+              "text": "time",
+              "startTime": 48.35,
+              "endTime": 48.66
+            },
+            {
+              "id": 128,
+              "text": "which",
+              "startTime": 48.66,
+              "endTime": 48.84
+            },
+            {
+              "id": 129,
+              "text": "never",
+              "startTime": 48.84,
+              "endTime": 49.19
+            },
+            {
+              "id": 130,
+              "text": "ever",
+              "startTime": 49.19,
+              "endTime": 49.46
+            },
+            {
+              "id": 131,
+              "text": "works",
+              "startTime": 49.46,
+              "endTime": 49.94
+            },
+            {
+              "id": 132,
+              "text": "be",
+              "startTime": 50.51,
+              "endTime": 50.94
+            },
+            {
+              "id": 133,
+              "text": "really",
+              "startTime": 50.94,
+              "endTime": 51.38
+            },
+            {
+              "id": 134,
+              "text": "really",
+              "startTime": 51.38,
+              "endTime": 51.65
+            },
+            {
+              "id": 135,
+              "text": "focus",
+              "startTime": 51.65,
+              "endTime": 52.21
+            },
+            {
+              "id": 136,
+              "text": "be",
+              "startTime": 52.21,
+              "endTime": 52.72
+            },
+            {
+              "id": 137,
+              "text": "obsessed",
+              "startTime": 52.8,
+              "endTime": 53.68
+            },
+            {
+              "id": 138,
+              "text": "about",
+              "startTime": 53.68,
+              "endTime": 53.92
+            },
+            {
+              "id": 139,
+              "text": "the",
+              "startTime": 54.03,
+              "endTime": 54.16
+            },
+            {
+              "id": 140,
+              "text": "few",
+              "startTime": 54.19,
+              "endTime": 54.45
+            },
+            {
+              "id": 141,
+              "text": "things",
+              "startTime": 54.45,
+              "endTime": 54.73
+            },
+            {
+              "id": 142,
+              "text": "that",
+              "startTime": 54.73,
+              "endTime": 54.85
+            },
+            {
+              "id": 143,
+              "text": "matter",
+              "startTime": 54.85,
+              "endTime": 55.16
+            },
+            {
+              "id": 144,
+              "text": "and",
+              "startTime": 55.16,
+              "endTime": 55.31
+            },
+            {
+              "id": 145,
+              "text": "say",
+              "startTime": 55.31,
+              "endTime": 55.44
+            },
+            {
+              "id": 146,
+              "text": "no",
+              "startTime": 55.44,
+              "endTime": 55.65
+            },
+            {
+              "id": 147,
+              "text": "to",
+              "startTime": 55.65,
+              "endTime": 55.8
+            },
+            {
+              "id": 148,
+              "text": "everything",
+              "startTime": 55.8,
+              "endTime": 56.16
+            },
+            {
+              "id": 149,
+              "text": "else",
+              "startTime": 56.16,
+              "endTime": 56.56
+            },
+            {
+              "id": 150,
+              "text": "it's",
+              "startTime": 56.83,
+              "endTime": 56.96
+            },
+            {
+              "id": 151,
+              "text": "really",
+              "startTime": 56.96,
+              "endTime": 57.45
+            },
+            {
+              "id": 152,
+              "text": "really",
+              "startTime": 57.45,
+              "endTime": 57.7
+            },
+            {
+              "id": 153,
+              "text": "hard",
+              "startTime": 57.7,
+              "endTime": 58
+            },
+            {
+              "id": 154,
+              "text": "to",
+              "startTime": 58,
+              "endTime": 58.12
+            },
+            {
+              "id": 155,
+              "text": "do",
+              "startTime": 58.12,
+              "endTime": 58.29
+            },
+            {
+              "id": 156,
+              "text": "that",
+              "startTime": 58.29,
+              "endTime": 58.65
+            },
+            {
+              "id": 157,
+              "text": "but",
+              "startTime": 58.76,
+              "endTime": 59
+            },
+            {
+              "id": 158,
+              "text": "if",
+              "startTime": 59.03,
+              "endTime": 59.23
+            },
+            {
+              "id": 159,
+              "text": "you",
+              "startTime": 59.23,
+              "endTime": 59.34
+            },
+            {
+              "id": 160,
+              "text": "focus",
+              "startTime": 59.34,
+              "endTime": 59.83
+            },
+            {
+              "id": 161,
+              "text": "on",
+              "startTime": 59.83,
+              "endTime": 60.01
+            },
+            {
+              "id": 162,
+              "text": "that",
+              "startTime": 60.01,
+              "endTime": 60.25
+            },
+            {
+              "id": 163,
+              "text": "and",
+              "startTime": 60.25,
+              "endTime": 60.4
+            },
+            {
+              "id": 164,
+              "text": "if",
+              "startTime": 60.4,
+              "endTime": 60.51
+            },
+            {
+              "id": 165,
+              "text": "you",
+              "startTime": 60.51,
+              "endTime": 60.63
+            },
+            {
+              "id": 166,
+              "text": "get",
+              "startTime": 60.63,
+              "endTime": 60.88
+            },
+            {
+              "id": 167,
+              "text": "that",
+              "startTime": 60.88,
+              "endTime": 61.08
+            },
+            {
+              "id": 168,
+              "text": "ride",
+              "startTime": 61.08,
+              "endTime": 61.55
+            },
+            {
+              "id": 169,
+              "text": "here",
+              "startTime": 62.01,
+              "endTime": 62.27
+            },
+            {
+              "id": 170,
+              "text": "eventually",
+              "startTime": 62.27,
+              "endTime": 63.04
+            },
+            {
+              "id": 171,
+              "text": "I'm",
+              "startTime": 63.22,
+              "endTime": 63.42
+            },
+            {
+              "id": 172,
+              "text": "gonna",
+              "startTime": 63.42,
+              "endTime": 63.72
+            },
+            {
+              "id": 173,
+              "text": "be",
+              "startTime": 63.72,
+              "endTime": 63.89
+            },
+            {
+              "id": 174,
+              "text": "able",
+              "startTime": 63.89,
+              "endTime": 64.24
+            },
+            {
+              "id": 175,
+              "text": "to",
+              "startTime": 64.24,
+              "endTime": 64.37
+            },
+            {
+              "id": 176,
+              "text": "do",
+              "startTime": 64.37,
+              "endTime": 64.53
+            },
+            {
+              "id": 177,
+              "text": "more",
+              "startTime": 64.53,
+              "endTime": 64.76
+            },
+            {
+              "id": 178,
+              "text": "things",
+              "startTime": 64.76,
+              "endTime": 65.14
+            },
+            {
+              "id": 179,
+              "text": "because",
+              "startTime": 65.14,
+              "endTime": 65.46
+            },
+            {
+              "id": 180,
+              "text": "you",
+              "startTime": 65.46,
+              "endTime": 65.61
+            },
+            {
+              "id": 181,
+              "text": "know",
+              "startTime": 65.61,
+              "endTime": 65.83
+            },
+            {
+              "id": 182,
+              "text": "that",
+              "startTime": 65.83,
+              "endTime": 66.03
+            },
+            {
+              "id": 183,
+              "text": "this",
+              "startTime": 66.03,
+              "endTime": 66.2
+            },
+            {
+              "id": 184,
+              "text": "kind",
+              "startTime": 66.2,
+              "endTime": 66.4
+            },
+            {
+              "id": 185,
+              "text": "of",
+              "startTime": 66.4,
+              "endTime": 66.47
+            },
+            {
+              "id": 186,
+              "text": "works",
+              "startTime": 66.47,
+              "endTime": 66.94
+            },
+            {
+              "id": 187,
+              "text": "%HESITATION",
+              "startTime": 67.58,
+              "endTime": 68.15
+            },
+            {
+              "id": 188,
+              "text": "and",
+              "startTime": 68.19,
+              "endTime": 68.45
+            },
+            {
+              "id": 189,
+              "text": "I",
+              "startTime": 68.45,
+              "endTime": 68.53
+            },
+            {
+              "id": 190,
+              "text": "think",
+              "startTime": 68.53,
+              "endTime": 68.99
+            },
+            {
+              "id": 191,
+              "text": "you",
+              "startTime": 69.02,
+              "endTime": 69.13
+            },
+            {
+              "id": 192,
+              "text": "know",
+              "startTime": 69.13,
+              "endTime": 69.46
+            },
+            {
+              "id": 193,
+              "text": "another",
+              "startTime": 69.72,
+              "endTime": 70.13
+            },
+            {
+              "id": 194,
+              "text": "one",
+              "startTime": 70.13,
+              "endTime": 70.43
+            },
+            {
+              "id": 195,
+              "text": "which",
+              "startTime": 70.43,
+              "endTime": 70.71
+            },
+            {
+              "id": 196,
+              "text": "is",
+              "startTime": 70.71,
+              "endTime": 71.05
+            },
+            {
+              "id": 197,
+              "text": "insanely",
+              "startTime": 71.15,
+              "endTime": 71.76
+            },
+            {
+              "id": 198,
+              "text": "Porter",
+              "startTime": 71.76,
+              "endTime": 72.1
+            },
+            {
+              "id": 199,
+              "text": "especially",
+              "startTime": 72.1,
+              "endTime": 72.65
+            },
+            {
+              "id": 200,
+              "text": "as",
+              "startTime": 72.65,
+              "endTime": 72.83
+            },
+            {
+              "id": 201,
+              "text": "we",
+              "startTime": 72.83,
+              "endTime": 73.13
+            },
+            {
+              "id": 202,
+              "text": "move",
+              "startTime": 73.2,
+              "endTime": 73.48
+            },
+            {
+              "id": 203,
+              "text": "on",
+              "startTime": 73.48,
+              "endTime": 73.96
+            },
+            {
+              "id": 204,
+              "text": "is",
+              "startTime": 74.37,
+              "endTime": 74.86
+            },
+            {
+              "id": 205,
+              "text": "%HESITATION",
+              "startTime": 74.9,
+              "endTime": 75.46
+            }
+          ],
+          "id": 5,
+          "startTime": 42.51,
+          "endTime": 75.46
+        },
+        {
+          "line": [
+            {
+              "id": 206,
+              "text": "again",
+              "startTime": 76.62,
+              "endTime": 77.36
+            },
+            {
+              "id": 207,
+              "text": "it's",
+              "startTime": 77.36,
+              "endTime": 77.74
+            },
+            {
+              "id": 208,
+              "text": "it's",
+              "startTime": 77.77,
+              "endTime": 78.14
+            },
+            {
+              "id": 209,
+              "text": "this",
+              "startTime": 78.17,
+              "endTime": 78.86
+            },
+            {
+              "id": 210,
+              "text": "notion",
+              "startTime": 78.86,
+              "endTime": 79.4
+            },
+            {
+              "id": 211,
+              "text": "that",
+              "startTime": 79.4,
+              "endTime": 79.76
+            },
+            {
+              "id": 212,
+              "text": "%HESITATION",
+              "startTime": 80.21,
+              "endTime": 80.76
+            },
+            {
+              "id": 213,
+              "text": "higher",
+              "startTime": 80.79,
+              "endTime": 81.2
+            },
+            {
+              "id": 214,
+              "text": "fasting",
+              "startTime": 81.2,
+              "endTime": 81.79
+            },
+            {
+              "id": 215,
+              "text": "fire",
+              "startTime": 81.79,
+              "endTime": 82.16
+            },
+            {
+              "id": 216,
+              "text": "faster",
+              "startTime": 82.16,
+              "endTime": 82.66
+            },
+            {
+              "id": 217,
+              "text": "I",
+              "startTime": 82.66,
+              "endTime": 82.74
+            },
+            {
+              "id": 218,
+              "text": "know",
+              "startTime": 82.74,
+              "endTime": 82.94
+            },
+            {
+              "id": 219,
+              "text": "this",
+              "startTime": 82.94,
+              "endTime": 83.2
+            },
+            {
+              "id": 220,
+              "text": "sounds",
+              "startTime": 83.2,
+              "endTime": 83.54
+            },
+            {
+              "id": 221,
+              "text": "incredibly",
+              "startTime": 83.54,
+              "endTime": 84.17
+            },
+            {
+              "id": 222,
+              "text": "tough",
+              "startTime": 84.2,
+              "endTime": 84.68
+            },
+            {
+              "id": 223,
+              "text": "but",
+              "startTime": 85.01,
+              "endTime": 85.18
+            },
+            {
+              "id": 224,
+              "text": "in",
+              "startTime": 85.18,
+              "endTime": 85.3
+            },
+            {
+              "id": 225,
+              "text": "so",
+              "startTime": 85.3,
+              "endTime": 85.54
+            },
+            {
+              "id": 226,
+              "text": "many",
+              "startTime": 85.54,
+              "endTime": 86.07
+            },
+            {
+              "id": 227,
+              "text": "are",
+              "startTime": 86.1,
+              "endTime": 86.42
+            },
+            {
+              "id": 228,
+              "text": "regards",
+              "startTime": 86.42,
+              "endTime": 87.26
+            },
+            {
+              "id": 229,
+              "text": "as",
+              "startTime": 87.29,
+              "endTime": 87.52
+            },
+            {
+              "id": 230,
+              "text": "you",
+              "startTime": 87.52,
+              "endTime": 87.66
+            },
+            {
+              "id": 231,
+              "text": "meet",
+              "startTime": 87.66,
+              "endTime": 87.9
+            },
+            {
+              "id": 232,
+              "text": "people",
+              "startTime": 87.9,
+              "endTime": 88.57
+            },
+            {
+              "id": 233,
+              "text": "and",
+              "startTime": 88.6,
+              "endTime": 88.98
+            },
+            {
+              "id": 234,
+              "text": "and",
+              "startTime": 89.04,
+              "endTime": 89.29
+            },
+            {
+              "id": 235,
+              "text": "%HESITATION",
+              "startTime": 89.29,
+              "endTime": 89.41
+            },
+            {
+              "id": 236,
+              "text": "working",
+              "startTime": 89.41,
+              "endTime": 89.87
+            },
+            {
+              "id": 237,
+              "text": "through",
+              "startTime": 89.87,
+              "endTime": 90.11
+            },
+            {
+              "id": 238,
+              "text": "these",
+              "startTime": 90.11,
+              "endTime": 90.27
+            },
+            {
+              "id": 239,
+              "text": "companies",
+              "startTime": 90.27,
+              "endTime": 90.91
+            },
+            {
+              "id": 240,
+              "text": "like",
+              "startTime": 91.2,
+              "endTime": 91.39
+            },
+            {
+              "id": 241,
+              "text": "the",
+              "startTime": 91.39,
+              "endTime": 91.49
+            },
+            {
+              "id": 242,
+              "text": "life",
+              "startTime": 91.49,
+              "endTime": 91.8
+            },
+            {
+              "id": 243,
+              "text": "cycle",
+              "startTime": 91.8,
+              "endTime": 92.29
+            },
+            {
+              "id": 244,
+              "text": "of",
+              "startTime": 92.29,
+              "endTime": 92.42
+            },
+            {
+              "id": 245,
+              "text": "a",
+              "startTime": 92.42,
+              "endTime": 92.49
+            },
+            {
+              "id": 246,
+              "text": "company",
+              "startTime": 92.49,
+              "endTime": 93.14
+            },
+            {
+              "id": 247,
+              "text": "to",
+              "startTime": 93.2,
+              "endTime": 93.33
+            },
+            {
+              "id": 248,
+              "text": "go",
+              "startTime": 93.33,
+              "endTime": 93.48
+            },
+            {
+              "id": 249,
+              "text": "from",
+              "startTime": 93.48,
+              "endTime": 93.92
+            },
+            {
+              "id": 250,
+              "text": "zero",
+              "startTime": 93.92,
+              "endTime": 94.29
+            },
+            {
+              "id": 251,
+              "text": "users",
+              "startTime": 94.29,
+              "endTime": 94.89
+            },
+            {
+              "id": 252,
+              "text": "to",
+              "startTime": 94.89,
+              "endTime": 95.21
+            },
+            {
+              "id": 253,
+              "text": "ten",
+              "startTime": 95.21,
+              "endTime": 95.47
+            },
+            {
+              "id": 254,
+              "text": "million",
+              "startTime": 95.47,
+              "endTime": 95.8
+            },
+            {
+              "id": 255,
+              "text": "users",
+              "startTime": 95.8,
+              "endTime": 96.46
+            },
+            {
+              "id": 256,
+              "text": "as",
+              "startTime": 96.81,
+              "endTime": 97.01
+            },
+            {
+              "id": 257,
+              "text": "we've",
+              "startTime": 97.01,
+              "endTime": 97.21
+            },
+            {
+              "id": 258,
+              "text": "seen",
+              "startTime": 97.21,
+              "endTime": 97.46
+            },
+            {
+              "id": 259,
+              "text": "the",
+              "startTime": 97.46,
+              "endTime": 97.55
+            },
+            {
+              "id": 260,
+              "text": "last",
+              "startTime": 97.55,
+              "endTime": 97.84
+            },
+            {
+              "id": 261,
+              "text": "couple",
+              "startTime": 97.84,
+              "endTime": 98.12
+            },
+            {
+              "id": 262,
+              "text": "of",
+              "startTime": 98.12,
+              "endTime": 98.27
+            },
+            {
+              "id": 263,
+              "text": "weeks",
+              "startTime": 98.27,
+              "endTime": 98.67
+            },
+            {
+              "id": 264,
+              "text": "with",
+              "startTime": 98.67,
+              "endTime": 98.87
+            },
+            {
+              "id": 265,
+              "text": "Vitti",
+              "startTime": 98.87,
+              "endTime": 99.34
+            },
+            {
+              "id": 266,
+              "text": "and",
+              "startTime": 99.34,
+              "endTime": 99.53
+            },
+            {
+              "id": 267,
+              "text": "social",
+              "startTime": 99.53,
+              "endTime": 99.87
+            },
+            {
+              "id": 268,
+              "text": "calendar",
+              "startTime": 99.87,
+              "endTime": 100.52
+            },
+            {
+              "id": 269,
+              "text": "can",
+              "startTime": 100.76,
+              "endTime": 100.94
+            },
+            {
+              "id": 270,
+              "text": "be",
+              "startTime": 100.94,
+              "endTime": 101.15
+            },
+            {
+              "id": 271,
+              "text": "the",
+              "startTime": 101.15,
+              "endTime": 101.26
+            },
+            {
+              "id": 272,
+              "text": "matter",
+              "startTime": 101.26,
+              "endTime": 101.53
+            },
+            {
+              "id": 273,
+              "text": "of",
+              "startTime": 101.53,
+              "endTime": 101.61
+            },
+            {
+              "id": 274,
+              "text": "weeks",
+              "startTime": 101.61,
+              "endTime": 102.22
+            },
+            {
+              "id": 275,
+              "text": "if",
+              "startTime": 102.74,
+              "endTime": 102.9
+            },
+            {
+              "id": 276,
+              "text": "you",
+              "startTime": 102.9,
+              "endTime": 102.98
+            },
+            {
+              "id": 277,
+              "text": "then",
+              "startTime": 102.98,
+              "endTime": 103.25
+            },
+            {
+              "id": 278,
+              "text": "don't",
+              "startTime": 103.25,
+              "endTime": 103.57
+            },
+            {
+              "id": 279,
+              "text": "have",
+              "startTime": 103.57,
+              "endTime": 103.88
+            },
+            {
+              "id": 280,
+              "text": "the",
+              "startTime": 103.88,
+              "endTime": 104
+            },
+            {
+              "id": 281,
+              "text": "right",
+              "startTime": 104,
+              "endTime": 104.24
+            },
+            {
+              "id": 282,
+              "text": "team",
+              "startTime": 104.24,
+              "endTime": 104.8
+            },
+            {
+              "id": 283,
+              "text": "in",
+              "startTime": 104.96,
+              "endTime": 105.12
+            },
+            {
+              "id": 284,
+              "text": "place",
+              "startTime": 105.12,
+              "endTime": 105.65
+            },
+            {
+              "id": 285,
+              "text": "then",
+              "startTime": 106.31,
+              "endTime": 106.48
+            },
+            {
+              "id": 286,
+              "text": "you",
+              "startTime": 106.48,
+              "endTime": 106.62
+            },
+            {
+              "id": 287,
+              "text": "try",
+              "startTime": 106.62,
+              "endTime": 107.05
+            },
+            {
+              "id": 288,
+              "text": "to",
+              "startTime": 107.05,
+              "endTime": 107.2
+            },
+            {
+              "id": 289,
+              "text": "kind",
+              "startTime": 107.2,
+              "endTime": 107.44
+            },
+            {
+              "id": 290,
+              "text": "of",
+              "startTime": 107.44,
+              "endTime": 107.52
+            },
+            {
+              "id": 291,
+              "text": "learn",
+              "startTime": 107.52,
+              "endTime": 108.13
+            },
+            {
+              "id": 292,
+              "text": "as",
+              "startTime": 108.2,
+              "endTime": 108.44
+            },
+            {
+              "id": 293,
+              "text": "you",
+              "startTime": 108.44,
+              "endTime": 108.54
+            },
+            {
+              "id": 294,
+              "text": "go",
+              "startTime": 108.54,
+              "endTime": 109.06
+            },
+            {
+              "id": 295,
+              "text": "and",
+              "startTime": 109.09,
+              "endTime": 109.27
+            },
+            {
+              "id": 296,
+              "text": "they",
+              "startTime": 109.27,
+              "endTime": 109.42
+            },
+            {
+              "id": 297,
+              "text": "also",
+              "startTime": 109.42,
+              "endTime": 110.04
+            },
+            {
+              "id": 298,
+              "text": "you",
+              "startTime": 110.07,
+              "endTime": 110.19
+            },
+            {
+              "id": 299,
+              "text": "know",
+              "startTime": 110.19,
+              "endTime": 110.3
+            },
+            {
+              "id": 300,
+              "text": "the",
+              "startTime": 110.3,
+              "endTime": 110.43
+            },
+            {
+              "id": 301,
+              "text": "T.",
+              "startTime": 110.43,
+              "endTime": 110.68
+            },
+            {
+              "id": 302,
+              "text": "missin",
+              "startTime": 110.68,
+              "endTime": 111.03
+            },
+            {
+              "id": 303,
+              "text": "optimize",
+              "startTime": 111.03,
+              "endTime": 111.6
+            },
+            {
+              "id": 304,
+              "text": "for",
+              "startTime": 111.6,
+              "endTime": 111.77
+            },
+            {
+              "id": 305,
+              "text": "what",
+              "startTime": 111.77,
+              "endTime": 111.96
+            },
+            {
+              "id": 306,
+              "text": "you're",
+              "startTime": 111.96,
+              "endTime": 112.08
+            },
+            {
+              "id": 307,
+              "text": "doing",
+              "startTime": 112.08,
+              "endTime": 112.56
+            },
+            {
+              "id": 308,
+              "text": "it's",
+              "startTime": 112.81,
+              "endTime": 113
+            },
+            {
+              "id": 309,
+              "text": "never",
+              "startTime": 113,
+              "endTime": 113.45
+            },
+            {
+              "id": 310,
+              "text": "going",
+              "startTime": 113.45,
+              "endTime": 113.62
+            },
+            {
+              "id": 311,
+              "text": "to",
+              "startTime": 113.62,
+              "endTime": 113.69
+            },
+            {
+              "id": 312,
+              "text": "work",
+              "startTime": 113.69,
+              "endTime": 114.14
+            },
+            {
+              "id": 313,
+              "text": "especially",
+              "startTime": 114.61,
+              "endTime": 115.15
+            },
+            {
+              "id": 314,
+              "text": "not",
+              "startTime": 115.15,
+              "endTime": 115.41
+            },
+            {
+              "id": 315,
+              "text": "if",
+              "startTime": 115.41,
+              "endTime": 115.55
+            },
+            {
+              "id": 316,
+              "text": "you're",
+              "startTime": 115.55,
+              "endTime": 115.66
+            },
+            {
+              "id": 317,
+              "text": "a",
+              "startTime": 115.66,
+              "endTime": 115.72
+            },
+            {
+              "id": 318,
+              "text": "small",
+              "startTime": 115.72,
+              "endTime": 116.02
+            },
+            {
+              "id": 319,
+              "text": "company",
+              "startTime": 116.02,
+              "endTime": 116.59
+            },
+            {
+              "id": 320,
+              "text": "every",
+              "startTime": 116.92,
+              "endTime": 117.31
+            },
+            {
+              "id": 321,
+              "text": "single",
+              "startTime": 117.31,
+              "endTime": 117.61
+            },
+            {
+              "id": 322,
+              "text": "person",
+              "startTime": 117.61,
+              "endTime": 118.36
+            },
+            {
+              "id": 323,
+              "text": "needs",
+              "startTime": 118.59,
+              "endTime": 118.85
+            },
+            {
+              "id": 324,
+              "text": "to",
+              "startTime": 118.85,
+              "endTime": 118.95
+            },
+            {
+              "id": 325,
+              "text": "carry",
+              "startTime": 118.95,
+              "endTime": 119.23
+            },
+            {
+              "id": 326,
+              "text": "the",
+              "startTime": 119.23,
+              "endTime": 119.35
+            },
+            {
+              "id": 327,
+              "text": "weights",
+              "startTime": 119.35,
+              "endTime": 119.84
+            },
+            {
+              "id": 328,
+              "text": "and",
+              "startTime": 119.87,
+              "endTime": 120.04
+            },
+            {
+              "id": 329,
+              "text": "then",
+              "startTime": 120.04,
+              "endTime": 120.21
+            },
+            {
+              "id": 330,
+              "text": "more",
+              "startTime": 120.21,
+              "endTime": 120.62
+            }
+          ],
+          "id": 6,
+          "startTime": 76.62,
+          "endTime": 120.62
+        },
+        {
+          "line": [
+            {
+              "id": 331,
+              "text": "so",
+              "startTime": 121.43,
+              "endTime": 121.88
+            },
+            {
+              "id": 332,
+              "text": "%HESITATION",
+              "startTime": 121.92,
+              "endTime": 122.48
+            },
+            {
+              "id": 333,
+              "text": "you",
+              "startTime": 122.55,
+              "endTime": 122.68
+            },
+            {
+              "id": 334,
+              "text": "know",
+              "startTime": 122.68,
+              "endTime": 122.78
+            },
+            {
+              "id": 335,
+              "text": "again",
+              "startTime": 122.78,
+              "endTime": 123.29
+            },
+            {
+              "id": 336,
+              "text": "%HESITATION",
+              "startTime": 123.37,
+              "endTime": 123.91
+            },
+            {
+              "id": 337,
+              "text": "I've",
+              "startTime": 124.03,
+              "endTime": 124.36
+            },
+            {
+              "id": 338,
+              "text": "in",
+              "startTime": 124.36,
+              "endTime": 124.52
+            },
+            {
+              "id": 339,
+              "text": "many",
+              "startTime": 124.52,
+              "endTime": 124.77
+            },
+            {
+              "id": 340,
+              "text": "cases",
+              "startTime": 124.77,
+              "endTime": 125.22
+            },
+            {
+              "id": 341,
+              "text": "just",
+              "startTime": 125.22,
+              "endTime": 125.49
+            },
+            {
+              "id": 342,
+              "text": "because",
+              "startTime": 125.49,
+              "endTime": 125.8
+            },
+            {
+              "id": 343,
+              "text": "this",
+              "startTime": 125.8,
+              "endTime": 125.99
+            },
+            {
+              "id": 344,
+              "text": "is",
+              "startTime": 125.99,
+              "endTime": 126.13
+            },
+            {
+              "id": 345,
+              "text": "a",
+              "startTime": 126.13,
+              "endTime": 126.22
+            },
+            {
+              "id": 346,
+              "text": "nice",
+              "startTime": 126.22,
+              "endTime": 126.52
+            },
+            {
+              "id": 347,
+              "text": "person",
+              "startTime": 126.52,
+              "endTime": 127.31
+            },
+            {
+              "id": 348,
+              "text": "and",
+              "startTime": 127.31,
+              "endTime": 127.5
+            },
+            {
+              "id": 349,
+              "text": "you",
+              "startTime": 127.5,
+              "endTime": 127.65
+            },
+            {
+              "id": 350,
+              "text": "know",
+              "startTime": 127.65,
+              "endTime": 127.89
+            },
+            {
+              "id": 351,
+              "text": "they're",
+              "startTime": 127.92,
+              "endTime": 128.08
+            },
+            {
+              "id": 352,
+              "text": "doing",
+              "startTime": 128.08,
+              "endTime": 128.33
+            },
+            {
+              "id": 353,
+              "text": "all",
+              "startTime": 128.33,
+              "endTime": 128.54
+            },
+            {
+              "id": 354,
+              "text": "rights",
+              "startTime": 128.54,
+              "endTime": 129.19
+            },
+            {
+              "id": 355,
+              "text": "I",
+              "startTime": 129.56,
+              "endTime": 129.7
+            },
+            {
+              "id": 356,
+              "text": "kind",
+              "startTime": 129.7,
+              "endTime": 129.96
+            },
+            {
+              "id": 357,
+              "text": "of",
+              "startTime": 129.96,
+              "endTime": 130.08
+            },
+            {
+              "id": 358,
+              "text": "given",
+              "startTime": 130.08,
+              "endTime": 130.56
+            },
+            {
+              "id": 359,
+              "text": "people",
+              "startTime": 130.56,
+              "endTime": 130.9
+            },
+            {
+              "id": 360,
+              "text": "too",
+              "startTime": 130.9,
+              "endTime": 131.08
+            },
+            {
+              "id": 361,
+              "text": "much",
+              "startTime": 131.08,
+              "endTime": 131.3
+            },
+            {
+              "id": 362,
+              "text": "slack",
+              "startTime": 131.3,
+              "endTime": 131.7
+            },
+            {
+              "id": 363,
+              "text": "and",
+              "startTime": 131.7,
+              "endTime": 131.92
+            },
+            {
+              "id": 364,
+              "text": "that's",
+              "startTime": 131.92,
+              "endTime": 132.35
+            },
+            {
+              "id": 365,
+              "text": "%HESITATION",
+              "startTime": 132.75,
+              "endTime": 133.28
+            },
+            {
+              "id": 366,
+              "text": "admit",
+              "startTime": 134,
+              "endTime": 134.35
+            },
+            {
+              "id": 367,
+              "text": "the",
+              "startTime": 134.35,
+              "endTime": 134.45
+            },
+            {
+              "id": 368,
+              "text": "mistakes",
+              "startTime": 134.45,
+              "endTime": 134.93
+            },
+            {
+              "id": 369,
+              "text": "that",
+              "startTime": 135.24,
+              "endTime": 135.42
+            },
+            {
+              "id": 370,
+              "text": "I've",
+              "startTime": 135.42,
+              "endTime": 135.5
+            },
+            {
+              "id": 371,
+              "text": "done",
+              "startTime": 135.5,
+              "endTime": 135.72
+            },
+            {
+              "id": 372,
+              "text": "so",
+              "startTime": 135.72,
+              "endTime": 135.92
+            },
+            {
+              "id": 373,
+              "text": "many",
+              "startTime": 135.92,
+              "endTime": 136.14
+            },
+            {
+              "id": 374,
+              "text": "times",
+              "startTime": 136.14,
+              "endTime": 136.58
+            },
+            {
+              "id": 375,
+              "text": "and",
+              "startTime": 136.58,
+              "endTime": 137
+            },
+            {
+              "id": 376,
+              "text": "I'd",
+              "startTime": 137.05,
+              "endTime": 137.43
+            },
+            {
+              "id": 377,
+              "text": "say",
+              "startTime": 137.43,
+              "endTime": 137.59
+            },
+            {
+              "id": 378,
+              "text": "the",
+              "startTime": 137.59,
+              "endTime": 137.69
+            },
+            {
+              "id": 379,
+              "text": "third",
+              "startTime": 137.69,
+              "endTime": 138
+            },
+            {
+              "id": 380,
+              "text": "one",
+              "startTime": 138,
+              "endTime": 138.37
+            },
+            {
+              "id": 381,
+              "text": "which",
+              "startTime": 138.73,
+              "endTime": 138.9
+            },
+            {
+              "id": 382,
+              "text": "I",
+              "startTime": 138.9,
+              "endTime": 139.04
+            },
+            {
+              "id": 383,
+              "text": "will",
+              "startTime": 139.19,
+              "endTime": 139.44
+            },
+            {
+              "id": 384,
+              "text": "also",
+              "startTime": 139.47,
+              "endTime": 139.95
+            },
+            {
+              "id": 385,
+              "text": "learn",
+              "startTime": 139.95,
+              "endTime": 140.35
+            },
+            {
+              "id": 386,
+              "text": "this",
+              "startTime": 140.43,
+              "endTime": 140.66
+            },
+            {
+              "id": 387,
+              "text": "that's",
+              "startTime": 140.66,
+              "endTime": 141.11
+            },
+            {
+              "id": 388,
+              "text": "%HESITATION",
+              "startTime": 141.45,
+              "endTime": 141.83
+            },
+            {
+              "id": 389,
+              "text": "known",
+              "startTime": 141.83,
+              "endTime": 142.24
+            },
+            {
+              "id": 390,
+              "text": "sort",
+              "startTime": 142.27,
+              "endTime": 142.54
+            },
+            {
+              "id": 391,
+              "text": "of",
+              "startTime": 142.54,
+              "endTime": 142.66
+            },
+            {
+              "id": 392,
+              "text": "over",
+              "startTime": 142.66,
+              "endTime": 142.9
+            },
+            {
+              "id": 393,
+              "text": "progress",
+              "startTime": 142.9,
+              "endTime": 143.43
+            },
+            {
+              "id": 394,
+              "text": "I",
+              "startTime": 143.43,
+              "endTime": 143.53
+            },
+            {
+              "id": 395,
+              "text": "did",
+              "startTime": 143.53,
+              "endTime": 143.74
+            },
+            {
+              "id": 396,
+              "text": "this",
+              "startTime": 143.74,
+              "endTime": 143.95
+            },
+            {
+              "id": 397,
+              "text": "thing",
+              "startTime": 143.95,
+              "endTime": 144.27
+            },
+            {
+              "id": 398,
+              "text": "a",
+              "startTime": 144.27,
+              "endTime": 144.42
+            },
+            {
+              "id": 399,
+              "text": "couple",
+              "startTime": 144.42,
+              "endTime": 144.71
+            },
+            {
+              "id": 400,
+              "text": "years",
+              "startTime": 144.71,
+              "endTime": 145.06
+            },
+            {
+              "id": 401,
+              "text": "ago",
+              "startTime": 145.06,
+              "endTime": 145.57
+            },
+            {
+              "id": 402,
+              "text": "%HESITATION",
+              "startTime": 145.86,
+              "endTime": 146.15
+            },
+            {
+              "id": 403,
+              "text": "again",
+              "startTime": 146.18,
+              "endTime": 146.56
+            },
+            {
+              "id": 404,
+              "text": "being",
+              "startTime": 146.56,
+              "endTime": 146.8
+            },
+            {
+              "id": 405,
+              "text": "a",
+              "startTime": 146.8,
+              "endTime": 146.87
+            },
+            {
+              "id": 406,
+              "text": "bit",
+              "startTime": 146.87,
+              "endTime": 147.05
+            },
+            {
+              "id": 407,
+              "text": "naive",
+              "startTime": 147.05,
+              "endTime": 147.74
+            },
+            {
+              "id": 408,
+              "text": "I",
+              "startTime": 147.85,
+              "endTime": 148
+            },
+            {
+              "id": 409,
+              "text": "said",
+              "startTime": 148,
+              "endTime": 148.31
+            },
+            {
+              "id": 410,
+              "text": "well",
+              "startTime": 148.31,
+              "endTime": 148.47
+            },
+            {
+              "id": 411,
+              "text": "surely",
+              "startTime": 148.47,
+              "endTime": 148.95
+            },
+            {
+              "id": 412,
+              "text": "we're",
+              "startTime": 148.95,
+              "endTime": 149.06
+            },
+            {
+              "id": 413,
+              "text": "gonna",
+              "startTime": 149.06,
+              "endTime": 149.25
+            },
+            {
+              "id": 414,
+              "text": "launch",
+              "startTime": 149.25,
+              "endTime": 149.53
+            },
+            {
+              "id": 415,
+              "text": "in",
+              "startTime": 149.53,
+              "endTime": 149.6
+            },
+            {
+              "id": 416,
+              "text": "the",
+              "startTime": 149.6,
+              "endTime": 149.68
+            },
+            {
+              "id": 417,
+              "text": "US",
+              "startTime": 149.68,
+              "endTime": 149.95
+            },
+            {
+              "id": 418,
+              "text": "pretty",
+              "startTime": 149.95,
+              "endTime": 150.17
+            },
+            {
+              "id": 419,
+              "text": "soon",
+              "startTime": 150.17,
+              "endTime": 150.5
+            },
+            {
+              "id": 420,
+              "text": "%HESITATION",
+              "startTime": 150.88,
+              "endTime": 151.19
+            },
+            {
+              "id": 421,
+              "text": "and",
+              "startTime": 151.54,
+              "endTime": 151.72
+            },
+            {
+              "id": 422,
+              "text": "end",
+              "startTime": 151.72,
+              "endTime": 151.99
+            },
+            {
+              "id": 423,
+              "text": "up",
+              "startTime": 151.99,
+              "endTime": 152.16
+            },
+            {
+              "id": 424,
+              "text": "taking",
+              "startTime": 152.16,
+              "endTime": 152.45
+            },
+            {
+              "id": 425,
+              "text": "us",
+              "startTime": 152.45,
+              "endTime": 152.61
+            },
+            {
+              "id": 426,
+              "text": "about",
+              "startTime": 152.61,
+              "endTime": 152.88
+            },
+            {
+              "id": 427,
+              "text": "two",
+              "startTime": 152.88,
+              "endTime": 153.06
+            },
+            {
+              "id": 428,
+              "text": "years",
+              "startTime": 153.06,
+              "endTime": 153.45
+            },
+            {
+              "id": 429,
+              "text": "to",
+              "startTime": 153.45,
+              "endTime": 153.63
+            },
+            {
+              "id": 430,
+              "text": "launch",
+              "startTime": 153.63,
+              "endTime": 153.88
+            },
+            {
+              "id": 431,
+              "text": "from",
+              "startTime": 153.88,
+              "endTime": 154.06
+            },
+            {
+              "id": 432,
+              "text": "that",
+              "startTime": 154.06,
+              "endTime": 154.24
+            },
+            {
+              "id": 433,
+              "text": "point",
+              "startTime": 154.24,
+              "endTime": 154.6
+            },
+            {
+              "id": 434,
+              "text": "%HESITATION",
+              "startTime": 154.98,
+              "endTime": 155.44
+            },
+            {
+              "id": 435,
+              "text": "I",
+              "startTime": 155.56,
+              "endTime": 155.72
+            },
+            {
+              "id": 436,
+              "text": "didn't",
+              "startTime": 155.72,
+              "endTime": 155.98
+            },
+            {
+              "id": 437,
+              "text": "know",
+              "startTime": 155.98,
+              "endTime": 156.17
+            },
+            {
+              "id": 438,
+              "text": "how",
+              "startTime": 156.17,
+              "endTime": 156.37
+            },
+            {
+              "id": 439,
+              "text": "hard",
+              "startTime": 156.37,
+              "endTime": 156.67
+            },
+            {
+              "id": 440,
+              "text": "it",
+              "startTime": 156.67,
+              "endTime": 156.76
+            },
+            {
+              "id": 441,
+              "text": "would",
+              "startTime": 156.76,
+              "endTime": 156.89
+            },
+            {
+              "id": 442,
+              "text": "actually",
+              "startTime": 156.89,
+              "endTime": 157.26
+            },
+            {
+              "id": 443,
+              "text": "be",
+              "startTime": 157.26,
+              "endTime": 157.6
+            },
+            {
+              "id": 444,
+              "text": "and",
+              "startTime": 157.65,
+              "endTime": 157.9
+            },
+            {
+              "id": 445,
+              "text": "I",
+              "startTime": 157.9,
+              "endTime": 157.99
+            },
+            {
+              "id": 446,
+              "text": "had",
+              "startTime": 157.99,
+              "endTime": 158.18
+            },
+            {
+              "id": 447,
+              "text": "to",
+              "startTime": 158.18,
+              "endTime": 158.36
+            },
+            {
+              "id": 448,
+              "text": "kind",
+              "startTime": 158.36,
+              "endTime": 158.54
+            },
+            {
+              "id": 449,
+              "text": "of",
+              "startTime": 158.54,
+              "endTime": 158.62
+            },
+            {
+              "id": 450,
+              "text": "eat",
+              "startTime": 158.62,
+              "endTime": 158.81
+            },
+            {
+              "id": 451,
+              "text": "that",
+              "startTime": 158.98,
+              "endTime": 159.19
+            },
+            {
+              "id": 452,
+              "text": "up",
+              "startTime": 159.19,
+              "endTime": 159.4
+            },
+            {
+              "id": 453,
+              "text": "especially",
+              "startTime": 159.4,
+              "endTime": 159.81
+            },
+            {
+              "id": 454,
+              "text": "with",
+              "startTime": 159.81,
+              "endTime": 159.94
+            },
+            {
+              "id": 455,
+              "text": "techcrunch",
+              "startTime": 159.94,
+              "endTime": 160.61
+            },
+            {
+              "id": 456,
+              "text": "for",
+              "startTime": 160.85,
+              "endTime": 161.35
+            },
+            {
+              "id": 457,
+              "text": "a",
+              "startTime": 161.69,
+              "endTime": 161.83
+            },
+            {
+              "id": 458,
+              "text": "very",
+              "startTime": 161.83,
+              "endTime": 162.4
+            },
+            {
+              "id": 459,
+              "text": "long",
+              "startTime": 162.4,
+              "endTime": 162.68
+            },
+            {
+              "id": 460,
+              "text": "period",
+              "startTime": 162.68,
+              "endTime": 162.95
+            },
+            {
+              "id": 461,
+              "text": "of",
+              "startTime": 162.95,
+              "endTime": 163.04
+            },
+            {
+              "id": 462,
+              "text": "time",
+              "startTime": 163.04,
+              "endTime": 163.46
+            },
+            {
+              "id": 463,
+              "text": "%HESITATION",
+              "startTime": 163.93,
+              "endTime": 164.32
+            },
+            {
+              "id": 464,
+              "text": "they",
+              "startTime": 164.32,
+              "endTime": 164.45
+            },
+            {
+              "id": 465,
+              "text": "even",
+              "startTime": 164.45,
+              "endTime": 164.7
+            },
+            {
+              "id": 466,
+              "text": "have",
+              "startTime": 164.7,
+              "endTime": 164.89
+            },
+            {
+              "id": 467,
+              "text": "like",
+              "startTime": 164.89,
+              "endTime": 165.16
+            },
+            {
+              "id": 468,
+              "text": "yeah",
+              "startTime": 165.16,
+              "endTime": 165.51
+            },
+            {
+              "id": 469,
+              "text": "I",
+              "startTime": 165.67,
+              "endTime": 165.74
+            },
+            {
+              "id": 470,
+              "text": "think",
+              "startTime": 165.74,
+              "endTime": 166.24
+            },
+            {
+              "id": 471,
+              "text": "you",
+              "startTime": 166.33,
+              "endTime": 166.49
+            },
+            {
+              "id": 472,
+              "text": "know",
+              "startTime": 166.49,
+              "endTime": 166.86
+            },
+            {
+              "id": 473,
+              "text": "I",
+              "startTime": 166.89,
+              "endTime": 167.05
+            },
+            {
+              "id": 474,
+              "text": "have",
+              "startTime": 167.05,
+              "endTime": 167.36
+            },
+            {
+              "id": 475,
+              "text": "listed",
+              "startTime": 167.36,
+              "endTime": 167.72
+            },
+            {
+              "id": 476,
+              "text": "April",
+              "startTime": 167.98,
+              "endTime": 168.31
+            },
+            {
+              "id": 477,
+              "text": "fool",
+              "startTime": 168.31,
+              "endTime": 168.56
+            },
+            {
+              "id": 478,
+              "text": "joke",
+              "startTime": 168.56,
+              "endTime": 168.95
+            },
+            {
+              "id": 479,
+              "text": "about",
+              "startTime": 168.95,
+              "endTime": 169.32
+            },
+            {
+              "id": 480,
+              "text": "it",
+              "startTime": 169.32,
+              "endTime": 169.48
+            },
+            {
+              "id": 481,
+              "text": "they",
+              "startTime": 169.48,
+              "endTime": 169.59
+            },
+            {
+              "id": 482,
+              "text": "have",
+              "startTime": 169.59,
+              "endTime": 169.88
+            },
+            {
+              "id": 483,
+              "text": "like",
+              "startTime": 169.91,
+              "endTime": 170.15
+            },
+            {
+              "id": 484,
+              "text": "a",
+              "startTime": 170.15,
+              "endTime": 170.21
+            },
+            {
+              "id": 485,
+              "text": "countdown",
+              "startTime": 170.21,
+              "endTime": 171.01
+            },
+            {
+              "id": 486,
+              "text": "on",
+              "startTime": 171.01,
+              "endTime": 171.44
+            },
+            {
+              "id": 487,
+              "text": "new",
+              "startTime": 171.69,
+              "endTime": 171.82
+            },
+            {
+              "id": 488,
+              "text": "year's",
+              "startTime": 171.82,
+              "endTime": 172.16
+            },
+            {
+              "id": 489,
+              "text": "eve",
+              "startTime": 172.16,
+              "endTime": 172.45
+            }
+          ],
+          "id": 7,
+          "startTime": 121.43,
+          "endTime": 172.45
+        },
+        {
+          "line": [
+            {
+              "id": 490,
+              "text": "not",
+              "startTime": 173.51,
+              "endTime": 173.79
+            },
+            {
+              "id": 491,
+              "text": "all",
+              "startTime": 173.79,
+              "endTime": 173.95
+            },
+            {
+              "id": 492,
+              "text": "of",
+              "startTime": 173.95,
+              "endTime": 174.16
+            },
+            {
+              "id": 493,
+              "text": "them",
+              "startTime": 174.16,
+              "endTime": 174.53
+            },
+            {
+              "id": 494,
+              "text": "it",
+              "startTime": 175.39,
+              "endTime": 175.54
+            },
+            {
+              "id": 495,
+              "text": "just",
+              "startTime": 175.54,
+              "endTime": 175.71
+            },
+            {
+              "id": 496,
+              "text": "got",
+              "startTime": 175.71,
+              "endTime": 175.87
+            },
+            {
+              "id": 497,
+              "text": "more",
+              "startTime": 175.87,
+              "endTime": 176.05
+            },
+            {
+              "id": 498,
+              "text": "people",
+              "startTime": 176.05,
+              "endTime": 176.34
+            },
+            {
+              "id": 499,
+              "text": "waiting",
+              "startTime": 176.34,
+              "endTime": 176.59
+            },
+            {
+              "id": 500,
+              "text": "for",
+              "startTime": 176.59,
+              "endTime": 176.8
+            },
+            {
+              "id": 501,
+              "text": "it",
+              "startTime": 176.8,
+              "endTime": 176.95
+            },
+            {
+              "id": 502,
+              "text": "which",
+              "startTime": 177,
+              "endTime": 177.19
+            },
+            {
+              "id": 503,
+              "text": "is",
+              "startTime": 177.19,
+              "endTime": 177.3
+            },
+            {
+              "id": 504,
+              "text": "good",
+              "startTime": 177.3,
+              "endTime": 177.53
+            },
+            {
+              "id": 505,
+              "text": "yeah",
+              "startTime": 177.64,
+              "endTime": 177.89
+            },
+            {
+              "id": 506,
+              "text": "I",
+              "startTime": 177.89,
+              "endTime": 178.14
+            },
+            {
+              "id": 507,
+              "text": "mean",
+              "startTime": 178.14,
+              "endTime": 178.47
+            },
+            {
+              "id": 508,
+              "text": "in",
+              "startTime": 178.5,
+              "endTime": 178.73
+            },
+            {
+              "id": 509,
+              "text": "in",
+              "startTime": 178.76,
+              "endTime": 179.08
+            },
+            {
+              "id": 510,
+              "text": "in",
+              "startTime": 179.15,
+              "endTime": 179.48
+            },
+            {
+              "id": 511,
+              "text": "in",
+              "startTime": 179.87,
+              "endTime": 180.04
+            },
+            {
+              "id": 512,
+              "text": "some",
+              "startTime": 180.04,
+              "endTime": 180.3
+            },
+            {
+              "id": 513,
+              "text": "way",
+              "startTime": 180.3,
+              "endTime": 180.52
+            },
+            {
+              "id": 514,
+              "text": "I",
+              "startTime": 180.52,
+              "endTime": 180.59
+            },
+            {
+              "id": 515,
+              "text": "guess",
+              "startTime": 180.59,
+              "endTime": 180.86
+            },
+            {
+              "id": 516,
+              "text": "it",
+              "startTime": 180.86,
+              "endTime": 180.97
+            },
+            {
+              "id": 517,
+              "text": "was",
+              "startTime": 180.97,
+              "endTime": 181.29
+            },
+            {
+              "id": 518,
+              "text": "all",
+              "startTime": 181.37,
+              "endTime": 181.67
+            },
+            {
+              "id": 519,
+              "text": "press",
+              "startTime": 181.67,
+              "endTime": 182.05
+            },
+            {
+              "id": 520,
+              "text": "is",
+              "startTime": 182.05,
+              "endTime": 182.18
+            },
+            {
+              "id": 521,
+              "text": "good",
+              "startTime": 182.18,
+              "endTime": 182.39
+            },
+            {
+              "id": 522,
+              "text": "press",
+              "startTime": 182.39,
+              "endTime": 182.72
+            },
+            {
+              "id": 523,
+              "text": "but",
+              "startTime": 182.84,
+              "endTime": 183.16
+            },
+            {
+              "id": 524,
+              "text": "%HESITATION",
+              "startTime": 183.42,
+              "endTime": 184
+            },
+            {
+              "id": 525,
+              "text": "it",
+              "startTime": 184.19,
+              "endTime": 184.59
+            },
+            {
+              "id": 526,
+              "text": "was",
+              "startTime": 184.59,
+              "endTime": 184.69
+            },
+            {
+              "id": 527,
+              "text": "stupid",
+              "startTime": 184.69,
+              "endTime": 185.08
+            },
+            {
+              "id": 528,
+              "text": "on",
+              "startTime": 185.08,
+              "endTime": 185.19
+            },
+            {
+              "id": 529,
+              "text": "my",
+              "startTime": 185.19,
+              "endTime": 185.37
+            },
+            {
+              "id": 530,
+              "text": "behalf",
+              "startTime": 185.37,
+              "endTime": 186.11
+            },
+            {
+              "id": 531,
+              "text": "%HESITATION",
+              "startTime": 186.16,
+              "endTime": 186.5
+            },
+            {
+              "id": 532,
+              "text": "too",
+              "startTime": 186.5,
+              "endTime": 186.76
+            },
+            {
+              "id": 533,
+              "text": "because",
+              "startTime": 186.76,
+              "endTime": 187
+            },
+            {
+              "id": 534,
+              "text": "the",
+              "startTime": 187,
+              "endTime": 187.08
+            },
+            {
+              "id": 535,
+              "text": "problem",
+              "startTime": 187.08,
+              "endTime": 187.4
+            },
+            {
+              "id": 536,
+              "text": "is",
+              "startTime": 187.4,
+              "endTime": 187.5
+            },
+            {
+              "id": 537,
+              "text": "something",
+              "startTime": 187.5,
+              "endTime": 187.96
+            },
+            {
+              "id": 538,
+              "text": "that",
+              "startTime": 187.96,
+              "endTime": 188.28
+            },
+            {
+              "id": 539,
+              "text": "%HESITATION",
+              "startTime": 188.63,
+              "endTime": 188.92
+            },
+            {
+              "id": 540,
+              "text": "we",
+              "startTime": 188.92,
+              "endTime": 189.08
+            },
+            {
+              "id": 541,
+              "text": "weren't",
+              "startTime": 189.08,
+              "endTime": 189.33
+            },
+            {
+              "id": 542,
+              "text": "sure",
+              "startTime": 189.33,
+              "endTime": 189.59
+            },
+            {
+              "id": 543,
+              "text": "that",
+              "startTime": 189.59,
+              "endTime": 189.75
+            },
+            {
+              "id": 544,
+              "text": "we're",
+              "startTime": 189.75,
+              "endTime": 189.89
+            },
+            {
+              "id": 545,
+              "text": "going",
+              "startTime": 189.89,
+              "endTime": 190.06
+            },
+            {
+              "id": 546,
+              "text": "to",
+              "startTime": 190.06,
+              "endTime": 190.18
+            },
+            {
+              "id": 547,
+              "text": "deliver",
+              "startTime": 190.18,
+              "endTime": 190.55
+            },
+            {
+              "id": 548,
+              "text": "it",
+              "startTime": 190.55,
+              "endTime": 190.65
+            },
+            {
+              "id": 549,
+              "text": "so",
+              "startTime": 190.65,
+              "endTime": 190.88
+            },
+            {
+              "id": 550,
+              "text": "these",
+              "startTime": 190.88,
+              "endTime": 191.11
+            },
+            {
+              "id": 551,
+              "text": "days",
+              "startTime": 191.11,
+              "endTime": 191.56
+            },
+            {
+              "id": 552,
+              "text": "I",
+              "startTime": 191.56,
+              "endTime": 191.81
+            },
+            {
+              "id": 553,
+              "text": "I",
+              "startTime": 191.86,
+              "endTime": 191.98
+            },
+            {
+              "id": 554,
+              "text": "try",
+              "startTime": 191.98,
+              "endTime": 192.19
+            },
+            {
+              "id": 555,
+              "text": "to",
+              "startTime": 192.19,
+              "endTime": 192.4
+            },
+            {
+              "id": 556,
+              "text": "%HESITATION",
+              "startTime": 192.97,
+              "endTime": 193.46
+            },
+            {
+              "id": 557,
+              "text": "under",
+              "startTime": 193.85,
+              "endTime": 194.15
+            },
+            {
+              "id": 558,
+              "text": "promise",
+              "startTime": 194.15,
+              "endTime": 194.58
+            },
+            {
+              "id": 559,
+              "text": "and",
+              "startTime": 194.58,
+              "endTime": 194.7
+            },
+            {
+              "id": 560,
+              "text": "over",
+              "startTime": 194.7,
+              "endTime": 194.89
+            },
+            {
+              "id": 561,
+              "text": "deliver",
+              "startTime": 194.89,
+              "endTime": 195.33
+            }
+          ],
+          "id": 8,
+          "startTime": 173.51,
+          "endTime": 195.33
+        }
+      ]
+    }
+  ],
+  "title": "bc234gm4243_sl.mp4",
+  "description": "",
+  "_id": "147c977c",
+  "id": "147c977c",
+  "wait": false
+}
